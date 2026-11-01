@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 尾声</title><link>https://qaz-dream-plm.github.io/page/</link><description>Recent content in Pages on 尾声</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://qaz-dream-plm.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://qaz-dream-plm.github.io/%E5%85%B3%E4%BA%8E/</link><pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate><guid>https://qaz-dream-plm.github.io/%E5%85%B3%E4%BA%8E/</guid><description>&lt;h2 id="关于网站"&gt;关于网站
+&lt;/h2&gt;&lt;p&gt;一个用来存放技术学习废料与总结归纳的网站（也许也会有神秘小文章）&lt;/p&gt;
+&lt;h2 id="关于作者"&gt;关于作者
+&lt;/h2&gt;&lt;p&gt;一个刚刚开始接触技术相关内容对知识仍怀有敬畏与热忱的大学生，生活追求慢意，对存在主义和文学也感兴趣，未来也许会运营一个文学网站也说不定？&lt;/p&gt;
+&lt;h3 id="我的旅程"&gt;我的旅程
+&lt;/h3&gt;&lt;p&gt;从高中的尾声迎来了大学的新生，我的未来暂未确定，唯一确定的便是眼前那前往未知的旅途，而我会向着目标不停追逐&lt;/p&gt;
+&lt;h3 id="技能"&gt;技能
+&lt;/h3&gt;&lt;p&gt;以下都仅仅是入门不要对我期望太高&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;语言&lt;/strong&gt;：C，Python,Go&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后端&lt;/strong&gt;: Golang(Gin、MySQL、JWT)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具&lt;/strong&gt;: Git, Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;&amp;ldquo;Logic will get you from A to B. Imagination will take you everywhere.&amp;rdquo;&lt;br&gt;
+— &lt;em&gt;Albert Einstein&lt;/em&gt;&lt;/p&gt;
+
+ &lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;使用hugo构建主题&lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+ &gt;stack&lt;/a&gt;由&lt;a class="link" href="https://jimmycai.com" target="_blank" rel="noopener"
+ &gt;Jimmy&lt;/a&gt;设计&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;此页面由 MI 生成。&lt;/em&gt;&lt;/p&gt;</description></item><item><title>归档</title><link>https://qaz-dream-plm.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://qaz-dream-plm.github.io/archives/</guid><description/></item><item><title>搜索</title><link>https://qaz-dream-plm.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qaz-dream-plm.github.io/search/</guid><description/></item><item><title>友链</title><link>https://qaz-dream-plm.github.io/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://qaz-dream-plm.github.io/link/</guid><description>&lt;p&gt;要使用此功能，请在 frontmatter 中添加 &lt;code&gt;links&lt;/code&gt; 部分。&lt;/p&gt;
+&lt;p&gt;此页面的 frontmatter：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub 是世界上最大的软件开发平台。&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript 是 JavaScript 的一个超集，它可以编译成纯 JavaScript。&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; 字段支持本地和外部图像。&lt;/p&gt;</description></item></channel></rss>
