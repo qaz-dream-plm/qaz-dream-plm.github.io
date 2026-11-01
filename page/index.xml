@@ -22,6 +22,7 @@
 
  &lt;/blockquote&gt;
 &lt;hr&gt;
+&lt;p&gt;我的邮箱：qaz_&lt;a class="link" href="mailto:dream@qq.com" &gt;dream@qq.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;使用hugo构建主题&lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
  &gt;stack&lt;/a&gt;由&lt;a class="link" href="https://jimmycai.com" target="_blank" rel="noopener"
  &gt;Jimmy&lt;/a&gt;设计&lt;/p&gt;
