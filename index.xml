@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>尾声</title><link>https://qaz-dream-plm.github.io/</link><description>Recent content on 尾声</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 01 Nov 2026 20:14:12 +0800</lastBuildDate><atom:link href="https://qaz-dream-plm.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>No</title><link>https://qaz-dream-plm.github.io/p/no/</link><pubDate>Sun, 01 Nov 2026 20:14:12 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/no/</guid><description>&lt;h2 id="不要压力我"&gt;不要压力我
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>尾声</title><link>https://qaz-dream-plm.github.io/</link><description>Recent content on 尾声</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Tue, 17 Nov 2026 18:38:31 +0800</lastBuildDate><atom:link href="https://qaz-dream-plm.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>论文阅读</title><link>https://qaz-dream-plm.github.io/p/paper-reading/</link><pubDate>Tue, 17 Nov 2026 18:38:31 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/paper-reading/</guid><description>&lt;p&gt;未完待续&lt;/p&gt;
+&lt;h2 id="用到的插件与网站"&gt;用到的插件与网站
+&lt;/h2&gt;&lt;h3 id="插件"&gt;插件
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;用于方便查看论文含金量的插件：用的人比较多的&lt;a class="link" href="https://www.easyscholar.cc/" target="_blank" rel="noopener"
+ &gt;easyscholar&lt;/a&gt;或者也有人用的&lt;a class="link" href="https://www.rydmind.com/" target="_blank" rel="noopener"
+ &gt;文骥&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一个好用的翻译软件或者插件（可以试试有道或者沉浸式翻译但是感觉都不太好用）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="网站"&gt;网站
+&lt;/h3&gt;&lt;h4 id="中文资料"&gt;中文资料
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://c61.oversea.cnki.net/" target="_blank" rel="noopener"
+ &gt;中国知网&lt;/a&gt;（在右上方登录机构登录后可以下载和查看数据库内有的相关资料，没有机构可以在淘宝等上面购买第三方数据库）
+优点：访问方便，界面简洁，有账号就能下载
+缺点：资料不全&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="无法下载的资料下载要带上doi去查论文"&gt;无法下载的资料下载（要带上DOI去查论文）
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.sci-hub.ru" target="_blank" rel="noopener"
+ &gt;sic-hub&lt;/a&gt;（强烈推荐不用注册点击即送PDF，2022年以前的老资料特别全，后面的资料可以在他的另外的网站&lt;a class="link" href="https://sci-net.xyz/" target="_blank" rel="noopener"
+ &gt;sic-net&lt;/a&gt;上下载前者是用爬虫，后者是发起求助然后人工上传的要付费感觉没那么值）&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://www.ablesci.com/" target="_blank" rel="noopener"
+ &gt;科研通&lt;/a&gt;（模式和上面的sic-net差不多但是有签到领代币一天够下载个一两篇建议使用前先阅读置顶的须知。两个都可以通过帮别人找文献的方法获得代币）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="具体查询方法"&gt;具体查询方法
+&lt;/h2&gt;&lt;h3 id="中国知网"&gt;中国知网
+&lt;/h3&gt;&lt;p&gt;建议使用高级检索功能通过关键词查询相关的资料，在查找论文时的关键词优先用篇名，找到的论文数量不够时再查询主题。&lt;/p&gt;</description></item><item><title>Steaksetup</title><link>https://qaz-dream-plm.github.io/p/steaksetup/</link><pubDate>Mon, 02 Nov 2026 22:09:12 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/steaksetup/</guid><description>&lt;h2 id="blog搭建碎碎念"&gt;blog搭建碎碎念
+&lt;/h2&gt;&lt;h3 id="stack的一些问题"&gt;stack的一些问题
+&lt;/h3&gt;&lt;p&gt;网络上搭建blog的教程很多都有点过时了，而我恰好选择了stack这个未完善的theme作为我网站的主题，搭建的时候也因为不知道应该干什么，没有目的的去翻文档，汉化翻的也是一坨，浪费了很多时间，现在想来像这种改一点配置就会有明显影响且各个影响之间没有什么关联的项目完全可以放心的交给ai，每一个配置的更改在前期都十分让我感到有趣，也能学到一些很有意思的文件结构比如原先的单配置文件现在被放在了一个文件夹下，但是主题虽然是新的可是它并不适配任何版本的hugo由于两者开发不是同时的，stackv4运用了老版本hugo存在的变量，但是没发现在新版本变量在部署的时候不存在，导致我部署的时候一直报错调了十几次才改好，这就是很常见的没有交流的协作问题，不过这也很正常是人就会犯错这也是开源社区的意义所在。&lt;/p&gt;
+&lt;h3 id="github静态网页动态上传的配置问题"&gt;github静态网页动态上传的配置问题
+&lt;/h3&gt;&lt;p&gt;我到部署的时候才发现仓库名是用户名.github.io会部署成去掉github前缀的网址导致配置网址的时候一直有问题，用action动态上传的时候秘钥的配置也很迷，要记得开读写权限，最开始用PAT秘钥失败了改为用Deploy Key才成功。&lt;/p&gt;
+&lt;h3 id="经验总结"&gt;经验总结
+&lt;/h3&gt;&lt;h4 id="通用经验"&gt;通用经验
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;代码的编写还是重实践不能上来什么都不了解就看文档，文档可以带来规范的写法，但是不能解决疑难问题，而像blog搭建这种纯粹在疑难问题上面浪费时间，很多变量不是刚需了解的任务，文档的作用确实不会很大。&lt;/li&gt;
+&lt;li&gt;遇到问题查询网络上存在的解法很好但是大多解法都具有时效性，要么版本降级要么头铁和问题硬干。&lt;/li&gt;
+&lt;li&gt;版本适配是项目使用时特别关键的一个问题，在下载前最好先了解当前项目适配的软件的最低与最高版本避免在版本兼容问题上浪费时间&lt;/li&gt;
+&lt;li&gt;github秘钥的配置
+&lt;ol&gt;
+&lt;li&gt;PAT秘钥的配置:在setting的secrets and variables选项中点击 New repository secret 创建获得秘钥复制到你需要拥有权限的仓库，优点是方便，缺点是太方便了安全性低，可以调整颗粒度与减短过期时间来增加安全性，但是没这个必要，主要PAT有时候会不稳定像我配blog的时候就失败了。&lt;/li&gt;
+&lt;li&gt;Deploy Key：在目标文件夹中打开cmd，输入
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ssh-keygen -t ed25519 -C &amp;#34;hugo-blog-deploy&amp;#34; -f hugo-deploy
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;按两次回车后会在文件夹下创建一对秘钥，公钥放进目标项目的deploy key，私钥放进和PAT需要权限的仓库的一个地方，记得把秘钥本地保存或者删掉而不是上传到github的公开仓库&lt;/li&gt;
+&lt;li&gt;oer&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>No</title><link>https://qaz-dream-plm.github.io/p/no/</link><pubDate>Sun, 01 Nov 2026 20:14:12 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/no/</guid><description>&lt;h2 id="不要压力我"&gt;不要压力我
 &lt;/h2&gt;&lt;h3 id="不要压力我-1"&gt;不要压力我
 &lt;/h3&gt;&lt;h4 id="不要压力我-2"&gt;不要压力我
 &lt;/h4&gt;&lt;ul&gt;
