@@ -25,7 +25,8 @@
 &lt;/ul&gt;
 &lt;h2 id="具体查询方法"&gt;具体查询方法
 &lt;/h2&gt;&lt;h3 id="中国知网"&gt;中国知网
-&lt;/h3&gt;&lt;p&gt;建议使用高级检索功能通过关键词查询相关的资料，在查找论文时的关键词优先用篇名，找到的论文数量不够时再查询主题。&lt;/p&gt;</description></item><item><title>Steaksetup</title><link>https://qaz-dream-plm.github.io/p/steaksetup/</link><pubDate>Mon, 02 Nov 2026 22:09:12 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/steaksetup/</guid><description>&lt;h2 id="blog搭建碎碎念"&gt;blog搭建碎碎念
+&lt;/h3&gt;&lt;p&gt;建议使用高级检索功能通过关键词查询相关的资料，在查找论文时的关键词优先用篇名，找到的论文数量不够时再查询主题。&lt;/p&gt;</description></item><item><title>blog搭建碎碎念</title><link>https://qaz-dream-plm.github.io/p/steaksetup/</link><pubDate>Mon, 02 Nov 2026 22:09:12 +0800</pubDate><guid>https://qaz-dream-plm.github.io/p/steaksetup/</guid><description>&lt;p&gt;未完待续&lt;/p&gt;
+&lt;h2 id="blog搭建碎碎念"&gt;blog搭建碎碎念
 &lt;/h2&gt;&lt;h3 id="stack的一些问题"&gt;stack的一些问题
 &lt;/h3&gt;&lt;p&gt;网络上搭建blog的教程很多都有点过时了，而我恰好选择了stack这个未完善的theme作为我网站的主题，搭建的时候也因为不知道应该干什么，没有目的的去翻文档，汉化翻的也是一坨，浪费了很多时间，现在想来像这种改一点配置就会有明显影响且各个影响之间没有什么关联的项目完全可以放心的交给ai，每一个配置的更改在前期都十分让我感到有趣，也能学到一些很有意思的文件结构比如原先的单配置文件现在被放在了一个文件夹下，但是主题虽然是新的可是它并不适配任何版本的hugo由于两者开发不是同时的，stackv4运用了老版本hugo存在的变量，但是没发现在新版本变量在部署的时候不存在，导致我部署的时候一直报错调了十几次才改好，这就是很常见的没有交流的协作问题，不过这也很正常是人就会犯错这也是开源社区的意义所在。&lt;/p&gt;
 &lt;h3 id="github静态网页动态上传的配置问题"&gt;github静态网页动态上传的配置问题
